@@ -1,0 +1,7 @@
+Robots = 25
+xfactor = .3
+fitnesscap = 50
+roundlength = 1
+
+end 
+EndConfigFile
